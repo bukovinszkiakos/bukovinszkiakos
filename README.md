@@ -18,6 +18,10 @@ A project focused on deploying a containerized Full-Stack application to AWS EKS
 
 A containerized ASP.NET Core API deployed on AWS using Terraform, Docker, and EC2 Auto Scaling. The project includes automated CI/CD workflows, AWS OIDC authentication, vulnerability scanning, health checks, and rolling deployments.
 
+**[Flotilla – Kubernetes Microservices & Helm](https://github.com/bukovinszkiakos/k8s-microservices-helm-ci)**
+
+A Kubernetes-based microservices project built with Node.js, Docker, and Helm. It includes reusable Helm templates, PostgreSQL persistent storage, NetworkPolicies, CPU-based autoscaling, container hardening, and automated CI/CD pipelines with end-to-end testing using GitHub Actions and kind.
+
 ### Background
 
 My Full-Stack development background includes C#, .NET, JavaScript, and modern web development. It also gives me a better understanding of the applications behind the infrastructure and deployment workflows I work with.
